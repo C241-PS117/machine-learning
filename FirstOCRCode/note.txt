@@ -1,0 +1,10 @@
+Python 3.12.0
+
+total dataset: 14080
+epoch: 40
+Word Accuracy: 0.5972369819341127
+Character Accuracy: 0.7332369129404203
+
+dataset: https://drive.google.com/file/d/1ylZOeJhSuP-E1HxOq63XM07CCXniHWVG/view?usp=sharing
+
+note: sepertinya lebih baik tanpa augment1
