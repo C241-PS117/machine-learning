@@ -5,11 +5,11 @@
 
 ## Team Information
 **Team ID: C241-PS117**
-| Name                                  | Institution                        | Specialization         |
-|---------------------------------------|------------------------------------|------------------------|
-| M004D4KX3328 - Melanie Sayyidina Sabrina Refman | Institut Teknologi Sepuluh Nopember | Machine Learning       |
-| M004D4KX2891 - Yusna Millaturrosyidah | Institut Teknologi Sepuluh Nopember | Machine Learning       |
-| M004D4KX1711 - Tsabita Putri Ramadhany | Institut Teknologi Sepuluh Nopember | Machine Learning       |
+| Bangkit Student ID | Name                                  | Institution                        | Specialization         |
+|--------------------|---------------------------------------|------------------------------------|------------------------|
+| M004D4KX3328       | Melanie Sayyidina Sabrina Refman      | Institut Teknologi Sepuluh Nopember| Machine Learning       |
+| M004D4KX2891       | Yusna Millaturrosyidah                | Institut Teknologi Sepuluh Nopember| Machine Learning       |
+| M004D4KX1711       | Tsabita Putri Ramadhany               | Institut Teknologi Sepuluh Nopember| Machine Learning       |
 
 ## Project Overview
 ESSY is an essay scoring system that utilizes Optical Character Recognition (OCR) and cosine similarity for autograding essays. The primary goal of this application is to assist teachers in automating the grading process for essay answers, thereby reducing manual workload and improving efficiency.
