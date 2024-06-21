@@ -42,7 +42,7 @@ You can view our slide presentation [here](https://www.canva.com/design/DAGIRqEN
 
 ## Latest Code and Model
 - **Latest Code**: [machine-learning/model_HTR_OCR_update.ipynb](https://github.com/C241-PS117/machine-learning/blob/main/model_HTR_OCR_update.ipynb)
-- **Latest Model**: [Link to the latest model](#) (Update with actual link)
+- **Latest Model**: [Link to the latest model](https://github.com/C241-PS117/machine-learning/blob/main/Update-Text-Recognition.h5) (Update with actual link)
 
 ## Contributors
 - Melanie Sayyidina Sabrina Refman
