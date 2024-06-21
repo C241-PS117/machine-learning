@@ -41,7 +41,7 @@ For a detailed explanation, watch our 10-minute video presentation [here](https:
 You can view our slide presentation [here](https://www.canva.com/design/DAGIRqENrXY/fYHLl7T-LwJOd8Y7C-U4ew/view?utm_content=DAGIRqENrXY&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 ## Latest Code and Model
-- **Latest Code**: [machine-learning/model_HTR_OCR_update.ipynb](machine-learning/model_HTR_OCR_update.ipynb)
+- **Latest Code**: [machine-learning/model_HTR_OCR_update.ipynb](https://github.com/C241-PS117/machine-learning/blob/main/model_HTR_OCR_update.ipynb)
 - **Latest Model**: [Link to the latest model](#) (Update with actual link)
 
 ## Contributors
